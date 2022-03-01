@@ -1,0 +1,12 @@
+{
+  "name": "svg-to-lwc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "rehype": "^12.0.1",
+    "rehype-rewrite": "^3.0.4",
+    "rehype-stringify": "^9.0.3"
+  }
+}
