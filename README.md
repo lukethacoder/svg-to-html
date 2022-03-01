@@ -8,6 +8,8 @@ Utility script to convert a folder of svg files to html files (incl. extra attri
 2. Run `node script.js`
 3. Profit 🚀
 
+In addition to a folder of `.html` svgs, you get a nice `js` file with LWC based imports.
+
 ---
 
 Example svgs thanks to [tabler-icons](https://github.com/tabler/tabler-icons)
